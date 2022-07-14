@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1df03c380d468344af633a2fbb2cdc7, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemname: Axe
+  itemDescription: AXEEEE
+  canStackable: 0
+  itemIcon: {fileID: 21300000, guid: f985f41dbcfbe234c8482f3c852c0d5b, type: 3}
+  itemPrefab: {fileID: 5219271041255957724, guid: d034cf753ca9aff43a1e124000b5e915, type: 3}
+  player: {fileID: 0}
+  damage: 25
